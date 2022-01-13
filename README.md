@@ -6,6 +6,7 @@ test commit, push, pull request, merge, delete branch
 branch creation test 2, second stage
 redo and experiment to see if setup can be performed via git bash. 
 redo attempt number 2. 
+redo attempt number 3. 
 
 
 This repository is meant to provide an example for *forking* a repository on GitHub.
